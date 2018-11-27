@@ -3,13 +3,13 @@ def first_challenge
      :montague => {
        :patriarch => {
            :name => "Lord Montague",
-           :age => "53"}
+           :age => "53"},
        :matriarch => {
            :name => "Lady Monague",
-           :age => "54"}
+           :age => "54"},
        :hero => {
            :name => "Romeo", 
-           :status => "Alive"}
+           :status => "Alive"},
        :hero_friends => [{
            :name => "Benviolo",
            :age => "30",
