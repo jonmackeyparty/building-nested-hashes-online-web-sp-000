@@ -20,6 +20,6 @@ def first_challenge
            :attitude => "worried"}]
      }
          
-     capulet: {}
+     :capulet => {}
    
 end
